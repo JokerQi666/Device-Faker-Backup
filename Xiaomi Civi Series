@@ -42,6 +42,7 @@ device = "chenfeng"
 product = "chenfeng"
 name = "chenfeng"
 marketname = "Xiaomi Civi 4 Pro"
+
 [templates."Xiaomi Civi 5 Pro"]
 manufacturer = "Xiaomi"
 brand = "Xiaomi"
