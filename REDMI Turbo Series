@@ -1,0 +1,53 @@
+[templates."Redmi Note 12 Turbo"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "23049RAD8C"
+device = "marble"
+product = "marble"
+name = "marble"
+marketname = "Redmi Note 12 Turbo"
+
+[templates."Redmi Turbo 3"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "24069RA21C"
+device = "peridot"
+product = "peridot"
+name = "peridot"
+marketname = "Redmi Turbo 3"
+
+[templates."REDMI Turbo 4"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "24129RT7CC"
+device = "rodin"
+product = "rodin"
+name = "rodin"
+marketname = "REDMI Turbo 4"
+
+[templates."REDMI Turbo 4 Pro"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "25053RT47C"
+device = "onyx"
+product = "onyx"
+name = "onyx"
+marketname = "REDMI Turbo 4 Pro"
+
+[templates."REDMI Turbo 5"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "2511FRT34C"
+device = "klee"
+product = "klee"
+name = "klee"
+marketname = "REDMI Turbo 5"
+
+[templates."REDMI Turbo 5 Max"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "2602BRT18C"
+device = "dash"
+product = "dash"
+name = "dash"
+marketname = "REDMI Turbo 5 Max"
