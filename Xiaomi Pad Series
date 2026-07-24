@@ -1,0 +1,124 @@
+[templates."Xiaomi Pad 5"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "21051182C"
+device = "nabu"
+product = "nabu"
+name = "nabu"
+marketname = "Xiaomi Pad 5"
+
+[templates."Xiaomi Pad 5 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M2105K81AC"
+device = "elish"
+product = "elish"
+name = "elish"
+marketname = "Xiaomi Pad 5 Pro"
+
+[templates."Xiaomi Pad 5 Pro 5G"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M2105K81C"
+device = "enuma"
+product = "enuma"
+name = "enuma"
+marketname = "Xiaomi Pad 5 Pro 5G"
+
+[templates."Xiaomi Pad 5 Pro 12.4"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "22081281AC"
+device = "dagu"
+product = "dagu"
+name = "dagu"
+marketname = "Xiaomi Pad 5 Pro 12.4"
+
+[templates."Xiaomi Pad 6"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "23043RP34C"
+device = "pipa"
+product = "pipa"
+name = "pipa"
+marketname = "Xiaomi Pad 6"
+[templates."Xiaomi Pad 6 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "23046RP50C"
+device = "liuqin"
+product = "liuqin"
+name = "liuqin"
+marketname = "Xiaomi Pad 6 Pro"
+
+[templates."Xiaomi Pad 6 Max"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2307BRPDCC"
+device = "yudi"
+product = "yudi"
+name = "yudi"
+marketname = "Xiaomi Pad 6 Max"
+
+[templates."Xiaomi Pad 6S Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "24018RPACC"
+device = "sheng"
+product = "sheng"
+name = "sheng"
+marketname = "Xiaomi Pad 6S Pro"
+
+[templates."Xiaomi Pad 7"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2410CRP4CC"
+device = "uke"
+product = "uke"
+name = "uke"
+marketname = "Xiaomi Pad 7"
+
+[templates."Xiaomi Pad 7 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "24091RPADC"
+device = "muyu"
+product = "muyu"
+name = "muyu"
+marketname = "Xiaomi Pad 7 Pro"
+
+[templates."Xiaomi Pad 7 Ultra"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "25032RP42C"
+device = "jinghu"
+product = "jinghu"
+name = "jinghu"
+marketname = "Xiaomi Pad 7 Ultra"
+
+[templates."Xiaomi Pad 7S Pro 12.5"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "25053RP5CC"
+device = "violin"
+product = "violin"
+name = "violin"
+marketname = "Xiaomi Pad 7S Pro 12.5"
+
+[templates."Xiaomi Pad 8"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "25097RP43C"
+device = "yupei"
+product = "yupei"
+name = "yupei"
+marketname = "Xiaomi Pad 8"
+
+[templates."Xiaomi Pad 8 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "25091RP04C"
+device = "piano"
+product = "piano"
+name = "piano"
+marketname = "Xiaomi Pad 8 Pro"
