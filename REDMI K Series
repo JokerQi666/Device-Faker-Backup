@@ -1,0 +1,134 @@
+[templates."Redmi K50 Ultra"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "22081212C"
+device = "diting"
+product = "diting"
+name = "diting"
+marketname = "Redmi K50 Ultra"
+
+[templates."Redmi K60"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "23013RK75C"
+device = "mondrian"
+product = "mondrian"
+name = "mondrian"
+marketname = "Redmi K60"
+
+[templates."Redmi K60 Pro"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "22127RK46C"
+device = "socrates"
+product = "socrates"
+name = "socrates"
+marketname = "Redmi K60 Pro"
+
+[templates."Redmi K60 Ultra"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "23078RKD5C"
+device = "corot"
+product = "corot"
+name = "corot"
+marketname = "Redmi K60 Ultra"
+
+[templates."Redmi K70"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "23113RKC6C"
+device = "vermeer"
+product = "vermeer"
+name = "vermeer"
+marketname = "Redmi K70"
+
+[templates."Redmi K70 Pro"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "23117RK66C"
+device = "manet"
+product = "manet"
+name = "manet"
+marketname = "Redmi K70 Pro"
+
+[templates."Redmi K70E"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "2311DRK48C"
+device = "duchamp"
+product = "duchamp"
+name = "duchamp"
+marketname = "Redmi K70E"
+
+[templates."Redmi K70 Ultra"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "2407FRK8EC"
+device = "rothko"
+product = "rothko"
+name = "rothko"
+marketname = "Redmi K70 Ultra"
+
+[templates."REDMI K80"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "24117RK2CC"
+device = "zorn"
+product = "zorn"
+name = "zorn"
+marketname = "REDMI K80"
+
+[templates."REDMI K80 Pro"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "24122RKC7C"
+device = "miro"
+product = "miro"
+name = "miro"
+marketname = "REDMI K80 Pro"
+
+[templates."REDMI K80 Ultra"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "25060RK16C"
+device = "dali"
+product = "dali"
+name = "dali"
+marketname = "REDMI K80 Ultra"
+
+[templates."REDMI K90"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "2510DRK44C"
+device = "annibale"
+product = "annibale"
+name = "annibale"
+marketname = "REDMI K90"
+
+[templates."REDMI K90 Pro Max"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "25102RKBEC"
+device = "myron"
+product = "myron"
+name = "myron"
+marketname = "REDMI K90 Pro Max"
+
+[templates."REDMI K90 Max"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "2604FRK1EC"
+device = "prague"
+product = "prague"
+name = "prague"
+marketname = "REDMI K90 Max"
+
+[templates."REDMI K90 Ultra"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "M332BF"
+device = "warsaw"
+product = "warsaw"
+name = "warsaw"
+marketname = "REDMI K90 Ultra"
