@@ -1,0 +1,52 @@
+[templates."Xiaomi Civi"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2109119BC"
+device = "mona"
+product = "mona"
+name = "mona"
+marketname = "Xiaomi Civi"
+
+[templates."Xiaomi Civi 1S"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2109119BC"
+device = "zijin"
+product = "zijin"
+name = "zijin"
+marketname = "Xiaomi Civi 1S"
+
+[templates."Xiaomi Civi 2"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2209129SC"
+device = "ziyi"
+product = "ziyi"
+name = "ziyi"
+marketname = "Xiaomi Civi 2"
+
+[templates."Xiaomi Civi 3"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "23046PNC9C"
+device = "yuechu"
+product = "yuechu"
+name = "yuechu"
+marketname = "Xiaomi Civi 3"
+
+[templates."Xiaomi Civi 4 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "24053PY09C"
+device = "chenfeng"
+product = "chenfeng"
+name = "chenfeng"
+marketname = "Xiaomi Civi 4 Pro"
+[templates."Xiaomi Civi 5 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "25067PYE3C"
+device = "luming"
+product = "luming"
+name = "luming"
+marketname = "Xiaomi Civi 5 Pro"
