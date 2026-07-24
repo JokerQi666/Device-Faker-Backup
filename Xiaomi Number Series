@@ -42,6 +42,7 @@ device = "venus"
 product = "venus"
 name = "venus"
 marketname = "Xiaomi 11"
+
 [templates."Xiaomi 11 Pro"]
 manufacturer = "Xiaomi"
 brand = "Xiaomi"
@@ -86,6 +87,7 @@ device = "zeus"
 product = "zeus"
 name = "zeus"
 market name = "Xiaomi 12 Pro"
+
 [templates."Xiaomi 12 Pro 天玑版"]
 manufacturer = "Xiaomi"
 brand = "Xiaomi"
@@ -130,6 +132,7 @@ device = "fuxi"
 product = "fuxi"
 name = "fuxi"
 marketname = "Xiaomi 13"
+
 [templates."Xiaomi 13 Pro"]
 manufacturer = "Xiaomi"
 brand = "Xiaomi"
@@ -174,6 +177,7 @@ device = "aurora"
 product = "aurora"
 name = "aurora"
 marketname = "Xiaomi 14 Ultra"
+
 [templates."Xiaomi 15"]
 manufacturer = "Xiaomi"
 brand = "Xiaomi"
@@ -218,6 +222,7 @@ device = "pudding"
 product = "pudding"
 name = "pudding"
 marketname = "Xiaomi 17"
+
 [templates."Xiaomi 17 Pro"]
 manufacturer = "Xiaomi"
 brand = "Xiaomi"
@@ -262,6 +267,7 @@ device = "chagall"
 product = "chagall"
 name = "chagall"
 marketname = "Xiaomi 17T"
+
 [templates."Xiaomi 17T Pro"]
 manufacturer = "Xiaomi"
 brand = "Xiaomi"
