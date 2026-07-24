@@ -1,0 +1,98 @@
+[templates."Redmi Note 13 5G"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "2312DRAABC"
+device = "gold"
+product = "gold"
+name = "gold"
+marketname = "Redmi Note 13 5G"
+
+[templates."Redmi Note 13 Pro"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "2312CRAD3C"
+device = "garnet"
+product = "garnet"
+name = "garnet"
+marketname = "Redmi Note 13 Pro"
+
+[templates."Redmi Note 13 Pro+"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "23090RA98C"
+device = "zircon"
+product = "zircon"
+name = "zircon"
+marketname = "Redmi Note 13 Pro+"
+
+[templates."Redmi Note 14 5G"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "24094RAD4C"
+device = "beryl"
+product = "beryl"
+name = "beryl"
+marketname = "Redmi Note 14 5G"
+
+[templates."Redmi Note 14 Pro"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "24090RA29C"
+device = "malachite"
+product = "malachite"
+name = "malachite"
+marketname = "Redmi Note 14 Pro"
+
+[templates."Redmi Note 14 Pro+"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "24115RA8EC"
+device = "amethyst"
+product = "amethyst"
+name = "amethyst"
+marketname = "Redmi Note 14 Pro+"
+
+[templates."REDMI Note 15"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "25098RA98C"
+device = "kunzite"
+product = "kunzite"
+name = "kunzite"
+marketname = "REDMI Note 15"
+
+[templates."REDMI Note 15 Pro"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "25080RABDC"
+device = "lapis"
+product = "lapis"
+name = "lapis"
+marketname = "REDMI Note 15 Pro"
+
+[templates."REDMI Note 15 Pro+"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "2510ERA8BC"
+device = "flourite"
+product = "flourite"
+name = "flourite"
+marketname = "REDMI Note 15 Pro+"
+
+[templates."REDMI Note 17"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "26021RN18C"
+device = "mist"
+product = "mist"
+name = "mist"
+marketname = "REDMI Note 17"
+
+[templates."REDMI Note 17 Pro"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "2607DRA18C"
+device = "iolite"
+product = "iolite"
+name = "iolite"
+marketname = "REDMI Note 17 Pro"
