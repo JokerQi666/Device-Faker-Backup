@@ -7,14 +7,14 @@ product = "odin"
 name = "odin"
 marketname = "Xiaomi MIX 4"
 
-[templates."MIX FOLD"]
+[templates."Xiaomi MIX FOLD"]
 manufacturer = "Xiaomi"
 brand = "Xiaomi"
 model = "M2011J18C"
 device = "cetus"
 product = "cetus"
 name = "cetus"
-marketname = "MIX FOLD"
+marketname = "Xiaomi MIX FOLD"
 
 [templates."Xiaomi MIX Fold 2"]
 manufacturer = "Xiaomi"
