@@ -33,6 +33,7 @@ device = "babylon"
 product = "babylon"
 name = "babylon"
 marketname = "Xiaomi MIX Fold 3"
+
 [templates."Xiaomi MIX Fold 4"]
 manufacturer = "Xiaomi"
 brand = "Xiaomi"
