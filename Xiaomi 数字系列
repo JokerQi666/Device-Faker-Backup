@@ -1,0 +1,271 @@
+[templates."Xiaomi 10"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M2001J2E"
+device = "umi"
+product = "umi"
+name = "umi"
+marketname = "Xiaomi 10"
+
+[templates."Xiaomi 10 Ultra"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M2007J1SC"
+device = "cas"
+product = "cas"
+name = "cas"
+marketname = "Xiaomi 10 Ultra"
+
+[templates."Xiaomi 10 Lite"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M2002J9E"
+device = "vangogh"
+product = "vangogh"
+name = "vangogh"
+marketname = "Xiaomi 10 Lite"
+
+[templates."Xiaomi 10S"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M2102J2SC"
+device = "thyme"
+product = "thyme"
+name = "thyme"
+marketname = "Xiaomi 10S"
+
+[templates."Xiaomi 11"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M2011K2C"
+device = "venus"
+product = "venus"
+name = "venus"
+marketname = "Xiaomi 11"
+[templates."Xiaomi 11 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M2102K1AC"
+device = "mars"
+product = "mars"
+name = "mars"
+marketname = "Xiaomi 11 Pro"
+
+[templates."Xiaomi 11 Ultra"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M2102K1C"
+device = "star"
+product = "star"
+name = "star"
+marketname = "Xiaomi 11 Ultra"
+
+[templates."Xiaomi 11 Lite"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M2101K9C"
+device = "renoir"
+product = "renoir"
+name = "renoir"
+marketname = "Xiaomi 11 Lite"
+
+[templates."Xiaomi 12"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2201123C"
+device = "cupid"
+product = "cupid"
+name = "cupid"
+marketname = "Xiaomi 12"
+
+[templates."Xiaomi 12 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2201122C"
+device = "zeus"
+product = "zeus"
+name = "zeus"
+market name = "Xiaomi 12 Pro"
+[templates."Xiaomi 12 Pro 天玑版"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2207122MC"
+device = "daumier"
+product = "daumier"
+name = "daumier"
+marketname = "Xiaomi 12 Pro 天玑版"
+
+[templates."Xiaomi 12S"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2206123SC"
+device = "mayfly"
+product = "mayfly"
+name = "mayfly"
+marketname = "Xiaomi 12S"
+
+[templates."Xiaomi 12S Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2206122SC"
+device = "unicorn"
+product = "unicorn"
+name = "unicorn"
+marketname = "Xiaomi 12S Pro"
+
+[templates."Xiaomi 12S Ultra"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2203121C"
+device = "thor"
+product = "thor"
+name = "thor"
+marketname = "Xiaomi 12S Ultra"
+
+[templates."Xiaomi 13"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2211133C"
+device = "fuxi"
+product = "fuxi"
+name = "fuxi"
+marketname = "Xiaomi 13"
+[templates."Xiaomi 13 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2210132C"
+device = "nuwa"
+product = "nuwa"
+name = "nuwa"
+marketname = "Xiaomi 13 Pro"
+
+[templates."Xiaomi 13 Ultra"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2304FPN6DC"
+device = "ishtar"
+product = "ishtar"
+name = "ishtar"
+marketname = "Xiaomi 13 Ultra"
+
+[templates."Xiaomi 14"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "23127PN0CC"
+device = "houji"
+product = "houji"
+name = "houji"
+marketname = "Xiaomi 14"
+
+[templates."Xiaomi 14 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "23116PN5BC"
+device = "shennong"
+product = "shennong"
+name = "shennong"
+marketname = "Xiaomi 14 Pro"
+
+[templates."Xiaomi 14 Ultra"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "24031PN0DC"
+device = "aurora"
+product = "aurora"
+name = "aurora"
+marketname = "Xiaomi 14 Ultra"
+[templates."Xiaomi 15"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "24129PN74C"
+device = "dada"
+product = "dada"
+name = "dada"
+marketname = "Xiaomi 15"
+
+[templates."Xiaomi 15 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2410DPN6CC"
+device = "haotian"
+product = "haotian"
+name = "haotian"
+marketname = "Xiaomi 15 Pro"
+
+[templates."Xiaomi 15 Ultra"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "25019PNF3C"
+device = "xuanyuan"
+product = "xuanyuan"
+name = "xuanyuan"
+marketname = "Xiaomi 15 Ultra"
+
+[templates."Xiaomi 15S Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "25042PN24C"
+device = "dijun"
+product = "dijun"
+name = "dijun"
+marketname = "Xiaomi 15S Pro"
+
+[templates."Xiaomi 17"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "25113PN0EC"
+device = "pudding"
+product = "pudding"
+name = "pudding"
+marketname = "Xiaomi 17"
+[templates."Xiaomi 17 Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "25098PN5AC"
+device = "pandora"
+product = "pandora"
+name = "pandora"
+marketname = "Xiaomi 17 Pro"
+
+[templates."Xiaomi 17 Pro Max"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2509FPN0BC"
+device = "popsicle"
+product = "popsicle"
+name = "popsicle"
+marketname = "Xiaomi 17 Pro Max"
+
+[templates."Xiaomi 17 Ultra"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2512BPNDAC"
+device = "nezha"
+product = "nezha"
+name = "nezha"
+marketname = "Xiaomi 17 Ultra"
+
+[templates."Xiaomi 17 Max"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2605EPN8EC"
+device = "byron"
+product = "byron"
+name = "byron"
+marketname = "Xiaomi 17 Max"
+
+[templates."Xiaomi 17T"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M531DA"
+device = "chagall"
+product = "chagall"
+name = "chagall"
+marketname = "Xiaomi 17T"
+[templates."Xiaomi 17T Pro"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M025EC"device = "warhol"
+product = "warhol"
+name = "warhol"
+marketname = "Xiaomi 17T Pro"
