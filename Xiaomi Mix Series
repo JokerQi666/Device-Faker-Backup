@@ -1,0 +1,61 @@
+[templates."Xiaomi MIX 4"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2106118C"
+device = "odin"
+product = "odin"
+name = "odin"
+marketname = "Xiaomi MIX 4"
+
+[templates."MIX FOLD"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M2011J18C"
+device = "cetus"
+product = "cetus"
+name = "cetus"
+marketname = "MIX FOLD"
+
+[templates."Xiaomi MIX Fold 2"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "22061218C"
+device = "zizhan"
+product = "zizhan"
+name = "zizhan"
+marketname = "Xiaomi MIX Fold 2"
+
+[templates."Xiaomi MIX Fold 3"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2308CPXD0C"
+device = "babylon"
+product = "babylon"
+name = "babylon"
+marketname = "Xiaomi MIX Fold 3"
+[templates."Xiaomi MIX Fold 4"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "24072PX77C"
+device = "goku"
+product = "goku"
+name = "goku"
+marketname = "Xiaomi MIX Fold 4"
+
+[templates."Xiaomi MIX Flip"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2405CPX3DC"
+device = "ruyi"
+product = "ruyi"
+name = "ruyi"
+marketname = "Xiaomi MIX Flip"
+
+[templates."Xiaomi MIX Flip 2"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2505APX7BC"
+device = "bixi"
+product = "bixi"
+name = "bixi"
+marketname = "Xiaomi MIX Flip 2"
