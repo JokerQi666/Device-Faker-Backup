@@ -1,0 +1,77 @@
+[templates."Redmi Pad SE"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "23073RPBFC"
+device = "xun"
+product = "xun"
+name = "xun"
+marketname = "Redmi Pad SE"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
+
+[templates."Redmi Pad Pro"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "2405CRPFDC"
+device = "dizi"
+product = "dizi"
+name = "dizi"
+marketname = "Redmi Pad Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
+
+[templates."REDMI Pad 2"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "25040RP0AC"
+device = "taiko"
+product = "taiko"
+name = "taiko"
+marketname = "REDMI Pad 2"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
+
+[templates."REDMI Pad 2 Pro"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "25099RP13C"
+device = "flute"
+product = "flute"
+name = "flute"
+marketname = "REDMI Pad 2 Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
+
+[templates."REDMI K Pad"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "25079RPDCC"
+device = "turner"
+product = "turner"
+name = "turner"
+marketname = "REDMI K Pad"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
+
+[templates."REDMI K Pad 2"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "26048RP6AC"
+device = "yili"
+product = "yili"
+name = "yili"
+marketname = "REDMI K Pad 2"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
