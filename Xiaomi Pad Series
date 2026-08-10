@@ -6,6 +6,10 @@ device = "nabu"
 product = "nabu"
 name = "nabu"
 marketname = "Xiaomi Pad 5"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 5 Pro"]
 manufacturer = "Xiaomi"
@@ -15,6 +19,10 @@ device = "elish"
 product = "elish"
 name = "elish"
 marketname = "Xiaomi Pad 5 Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 5 Pro 5G"]
 manufacturer = "Xiaomi"
@@ -24,6 +32,10 @@ device = "enuma"
 product = "enuma"
 name = "enuma"
 marketname = "Xiaomi Pad 5 Pro 5G"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 5 Pro 12.4"]
 manufacturer = "Xiaomi"
@@ -33,6 +45,10 @@ device = "dagu"
 product = "dagu"
 name = "dagu"
 marketname = "Xiaomi Pad 5 Pro 12.4"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 6"]
 manufacturer = "Xiaomi"
@@ -42,6 +58,10 @@ device = "pipa"
 product = "pipa"
 name = "pipa"
 marketname = "Xiaomi Pad 6"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 6 Pro"]
 manufacturer = "Xiaomi"
@@ -51,6 +71,10 @@ device = "liuqin"
 product = "liuqin"
 name = "liuqin"
 marketname = "Xiaomi Pad 6 Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 6 Max"]
 manufacturer = "Xiaomi"
@@ -60,6 +84,10 @@ device = "yudi"
 product = "yudi"
 name = "yudi"
 marketname = "Xiaomi Pad 6 Max"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 6S Pro"]
 manufacturer = "Xiaomi"
@@ -69,6 +97,10 @@ device = "sheng"
 product = "sheng"
 name = "sheng"
 marketname = "Xiaomi Pad 6S Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 7"]
 manufacturer = "Xiaomi"
@@ -78,6 +110,10 @@ device = "uke"
 product = "uke"
 name = "uke"
 marketname = "Xiaomi Pad 7"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 7 Pro"]
 manufacturer = "Xiaomi"
@@ -87,6 +123,10 @@ device = "muyu"
 product = "muyu"
 name = "muyu"
 marketname = "Xiaomi Pad 7 Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 7 Ultra"]
 manufacturer = "Xiaomi"
@@ -96,6 +136,10 @@ device = "jinghu"
 product = "jinghu"
 name = "jinghu"
 marketname = "Xiaomi Pad 7 Ultra"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 7S Pro 12.5"]
 manufacturer = "Xiaomi"
@@ -105,6 +149,10 @@ device = "violin"
 product = "violin"
 name = "violin"
 marketname = "Xiaomi Pad 7S Pro 12.5"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 8"]
 manufacturer = "Xiaomi"
@@ -114,6 +162,10 @@ device = "yupei"
 product = "yupei"
 name = "yupei"
 marketname = "Xiaomi Pad 8"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
 
 [templates."Xiaomi Pad 8 Pro"]
 manufacturer = "Xiaomi"
@@ -123,3 +175,7 @@ device = "piano"
 product = "piano"
 name = "piano"
 marketname = "Xiaomi Pad 8 Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
