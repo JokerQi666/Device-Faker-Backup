@@ -179,3 +179,16 @@ fingerprint = " "
 characteristics = "tablet"
 force_denylist_unmount = true
 author = "GitHub@JokerQi666"
+
+[templates."Xiaomi Pad 9 Pro Max"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M367FC"
+device = "yingtian"
+product = "yingtian"
+name = "yingtian"
+marketname = "Xiaomi Pad 9 Pro Max"
+characteristics = "tablet"
+force_denylist_unmount = true
+packages = [ "com.xiaomi.vipaccount" ]
+author = "GitHub@JokerQi666"
