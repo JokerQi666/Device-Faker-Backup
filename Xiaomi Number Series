@@ -338,3 +338,14 @@ fingerprint = ""
 name = "warhol"
 marketname = "Xiaomi 17T Pro"
 author = "GitHub@JokerQi666"
+
+[templates."Xiaomi 18 Fold"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2608BPX34C"
+device = "lhasa"
+product = "lhasa"
+name = "lhasa"
+marketname = "Xiaomi 18 Fold"
+packages = [ "com.xiaomi.vipaccount" ]
+author = "GitHub@JokerQi666"
