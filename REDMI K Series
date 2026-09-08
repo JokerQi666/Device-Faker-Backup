@@ -162,3 +162,23 @@ fingerprint = ""
 name = "warsaw"
 marketname = "REDMI K90 Ultra"
 author = "GitHub@JokerQi666"
+
+[templates."REDMI K100 Pro"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "M511CD"
+device = "athens"
+product = "athens"
+name = "athens"
+marketname = "REDMI K100 Pro"
+author = "GitHub@JokerQi666"
+
+[templates."REDMI K100 Pro Max"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "M098FE"
+device = "songyuan"
+product = "songyuan"
+name = "songyuan"
+marketname = "REDMI K100 Pro Max"
+author = "GitHub@JokerQi666"
